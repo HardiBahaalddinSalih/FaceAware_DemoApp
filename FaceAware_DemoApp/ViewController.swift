@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import FaceAware
 
 class ViewController: UIViewController {
 
